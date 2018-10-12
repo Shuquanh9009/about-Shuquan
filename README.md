@@ -1,7 +1,7 @@
 ## General Info
 
 **_Name_**: Shuquan Huang  
-**_E-mail_**: [shuquanh9009@hstat.org](shuquanh9009@hstat.org)  
+**_E-mail_**: [shuquanh9009@hstat.org](mailto:shuquanh9009@hstat.org)  
 **_School_**: High schoool of Telecommunication Arts and Technology  
 
 ---
