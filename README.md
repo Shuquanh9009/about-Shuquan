@@ -2,7 +2,7 @@
 
 **_Name_**: Shuquan Huang  
 **_E-mail_**: [shuquanh9009@hstat.org](mailto:shuquanh9009@hstat.org)  
-**_School_**: High schoool of Telecommunication Arts and Technology  
+**_School_**: High Schoool of Telecommunication Arts and Technology  
 
 ---
 
